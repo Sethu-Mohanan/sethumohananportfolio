@@ -246,7 +246,7 @@ img {
 }
 .home__content {
   grid-template-columns: 0.5fr 3fr;
-  padding-top: 3.5rem;
+
   align-items: center;
 }
 .home__social {
@@ -843,8 +843,8 @@ img {
     margin-left: 3rem;
     padding-left: 2rem;
   }
-  .nav__item{
-    padding: 0 24px 0px 7px; 
+  .nav__item {
+    padding: 0 24px 0px 7px;
   }
   .nav__menu {
     margin-right: auto;
