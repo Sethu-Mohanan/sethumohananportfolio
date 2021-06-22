@@ -826,7 +826,7 @@ img {
   .header,
   .main,
   .footer__container {
-    padding: 0 1rem;
+    padding: 32px 1rem;
   }
   .nav {
     height: calc(var(--header-height) + 1.5rem);
